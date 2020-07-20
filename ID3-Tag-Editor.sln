@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ID3-Tag-Editor", "ID3-Tag-Editor\ID3-Tag-Editor.csproj", "{A483A4BD-D92C-4BD1-A66B-33E0C14514F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ID3-Tag-Editor Unit Test", "ID3-Tag-Editor Unit Test\ID3-Tag-Editor Unit Test.csproj", "{47050DDC-719A-43CA-82B1-9AB4DDE20B93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A483A4BD-D92C-4BD1-A66B-33E0C14514F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A483A4BD-D92C-4BD1-A66B-33E0C14514F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A483A4BD-D92C-4BD1-A66B-33E0C14514F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A483A4BD-D92C-4BD1-A66B-33E0C14514F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47050DDC-719A-43CA-82B1-9AB4DDE20B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47050DDC-719A-43CA-82B1-9AB4DDE20B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47050DDC-719A-43CA-82B1-9AB4DDE20B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47050DDC-719A-43CA-82B1-9AB4DDE20B93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0039FDC-88BD-421E-A063-53110BC49BB0}
+	EndGlobalSection
+EndGlobal

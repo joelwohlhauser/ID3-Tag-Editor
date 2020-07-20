@@ -1,0 +1,21 @@
+C:\Users\Joel Wohlhauser\Documents\Workspace\Coding\ID3-Tag-Editor\ID3-Tag-Editor\ID3-Tag-Editor Unit Test\obj\Debug\ID3-Tag-Editor Unit Test.csprojAssemblyReference.cache
+C:\Users\Joel Wohlhauser\Documents\Workspace\Coding\ID3-Tag-Editor\ID3-Tag-Editor\ID3-Tag-Editor Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Joel Wohlhauser\Documents\Workspace\Coding\ID3-Tag-Editor\ID3-Tag-Editor\ID3-Tag-Editor Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Joel Wohlhauser\Documents\Workspace\Coding\ID3-Tag-Editor\ID3-Tag-Editor\ID3-Tag-Editor Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Joel Wohlhauser\Documents\Workspace\Coding\ID3-Tag-Editor\ID3-Tag-Editor\ID3-Tag-Editor Unit Test\bin\Debug\ID3-Tag-Editor Unit Test.dll
+C:\Users\Joel Wohlhauser\Documents\Workspace\Coding\ID3-Tag-Editor\ID3-Tag-Editor\ID3-Tag-Editor Unit Test\bin\Debug\ID3-Tag-Editor Unit Test.pdb
+C:\Users\Joel Wohlhauser\Documents\Workspace\Coding\ID3-Tag-Editor\ID3-Tag-Editor\ID3-Tag-Editor Unit Test\bin\Debug\DevExpress.Mvvm.dll
+C:\Users\Joel Wohlhauser\Documents\Workspace\Coding\ID3-Tag-Editor\ID3-Tag-Editor\ID3-Tag-Editor Unit Test\bin\Debug\DevExpress.Mvvm.UI.dll
+C:\Users\Joel Wohlhauser\Documents\Workspace\Coding\ID3-Tag-Editor\ID3-Tag-Editor\ID3-Tag-Editor Unit Test\bin\Debug\ID3-Tag-Editor.exe
+C:\Users\Joel Wohlhauser\Documents\Workspace\Coding\ID3-Tag-Editor\ID3-Tag-Editor\ID3-Tag-Editor Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Joel Wohlhauser\Documents\Workspace\Coding\ID3-Tag-Editor\ID3-Tag-Editor\ID3-Tag-Editor Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Joel Wohlhauser\Documents\Workspace\Coding\ID3-Tag-Editor\ID3-Tag-Editor\ID3-Tag-Editor Unit Test\bin\Debug\PlaylistsNET.dll
+C:\Users\Joel Wohlhauser\Documents\Workspace\Coding\ID3-Tag-Editor\ID3-Tag-Editor\ID3-Tag-Editor Unit Test\bin\Debug\ID3-Tag-Editor.pdb
+C:\Users\Joel Wohlhauser\Documents\Workspace\Coding\ID3-Tag-Editor\ID3-Tag-Editor\ID3-Tag-Editor Unit Test\bin\Debug\ID3-Tag-Editor.exe.config
+C:\Users\Joel Wohlhauser\Documents\Workspace\Coding\ID3-Tag-Editor\ID3-Tag-Editor\ID3-Tag-Editor Unit Test\bin\Debug\DevExpress.Mvvm.pdb
+C:\Users\Joel Wohlhauser\Documents\Workspace\Coding\ID3-Tag-Editor\ID3-Tag-Editor\ID3-Tag-Editor Unit Test\bin\Debug\DevExpress.Mvvm.UI.pdb
+C:\Users\Joel Wohlhauser\Documents\Workspace\Coding\ID3-Tag-Editor\ID3-Tag-Editor\ID3-Tag-Editor Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Joel Wohlhauser\Documents\Workspace\Coding\ID3-Tag-Editor\ID3-Tag-Editor\ID3-Tag-Editor Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Joel Wohlhauser\Documents\Workspace\Coding\ID3-Tag-Editor\ID3-Tag-Editor\ID3-Tag-Editor Unit Test\obj\Debug\ID3-Tag-Editor Unit Test.csproj.CopyComplete
+C:\Users\Joel Wohlhauser\Documents\Workspace\Coding\ID3-Tag-Editor\ID3-Tag-Editor\ID3-Tag-Editor Unit Test\obj\Debug\ID3-Tag-Editor Unit Test.dll
+C:\Users\Joel Wohlhauser\Documents\Workspace\Coding\ID3-Tag-Editor\ID3-Tag-Editor\ID3-Tag-Editor Unit Test\obj\Debug\ID3-Tag-Editor Unit Test.pdb
