@@ -117,6 +117,14 @@ namespace ID3_Tag_Editor.ViewModels
                     NumberOfFiles++;
                 }
             }
+            else
+            {
+                if (BasicFunctions.FileInUse(filePath))
+                {
+                    MessageBox.Show("Sorry, this file cannot be opened. " +
+                        "Either it is currently in use or this program does not have the necessary rights to read the file.");
+                }
+            }
         }
 
         private void RemoveFile()
@@ -194,6 +202,14 @@ namespace ID3_Tag_Editor.ViewModels
             if (playlistPath != null && !BasicFunctions.FileInUse(playlistPath))
             {
                 MusicFileTags = Logic.LoadPlaylist(playlistPath);
+            }
+            else
+            {
+                if (BasicFunctions.FileInUse(playlistPath))
+                {
+                    MessageBox.Show("Sorry, this file cannot be opened. " +
+                        "Either it is currently in use or this program does not have the necessary rights to read the file.");
+                }
             }
 
             NumberOfFiles = MusicFileTags.Count;
@@ -274,6 +290,6 @@ namespace ID3_Tag_Editor.ViewModels
 
 
 
-        private void OpenGitHubWebsite() => System.Diagnostics.Process.Start("https://github.com/jwohlhauser/ID3-Tag-Editor");
+        private void OpenGitHubWebsite() => System.Diagnostics.Process.Start("https://github.com/joelwohlhauser/ID3-Tag-Editor");
     }
 }

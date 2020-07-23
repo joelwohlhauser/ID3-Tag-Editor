@@ -64,7 +64,6 @@ namespace ID3_Tag_Editor.Logic
         }
 
 
-        #region Playlist
 
         public void CreatePlaylist(ObservableCollection<MusicFileTag> musicFileTags, string filePath)
         {
@@ -117,7 +116,6 @@ namespace ID3_Tag_Editor.Logic
             return NewMusicFileTags;
         }
 
-        #endregion
 
     }
 }

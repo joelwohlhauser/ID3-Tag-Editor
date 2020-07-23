@@ -38,7 +38,7 @@ namespace ID3_Tag_Editor.Logic
                 }
                 return false;
             }
-            catch (IOException)
+            catch
             {
                 return true;
             }
