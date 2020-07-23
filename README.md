@@ -7,12 +7,9 @@ This project was a school project and **will not be further developed**.
 
 **[Click here](https://github.com/joelwohlhauser/ID3-Tag-Editor/raw/master/ID3-Tag-Editor/bin/Debug/ID3-Tag-Editor.exe), to download the EXE.**
 
-
 ![Screenshot 1](https://github.com/joelwohlhauser/ID3-Tag-Editor/tree/master/ID3-Tag-Editor/Screenshot_1.jpg)
 
 ![Screenshot 2](https://github.com/joelwohlhauser/ID3-Tag-Editor/tree/master/ID3-Tag-Editor/Screenshot_2.jpg)
-
-
 
 ---
 
